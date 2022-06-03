@@ -71,4 +71,5 @@
 [Top명령어_참고_블로그2](https://zzsza.github.io/development/2018/07/18/linux-top/)  
 [Ps명령어_참고_블로그1](https://jhnyang.tistory.com/268)  
 [Ps명령어_참고_블로그2](https://kldp.org/node/153790)  
-[Jobs명령어_참고_블로그1](https://hbase.tistory.com/265)  
+[Jobs명령어_참고_블로그](https://hbase.tistory.com/265)  
+[kill_명령어_참고_블로그](https://sisiblog.tistory.com/209)  
