@@ -88,3 +88,4 @@
 [Ps명령어_참고_블로그2](https://kldp.org/node/153790)  
 [Jobs명령어_참고_블로그](https://hbase.tistory.com/265)  
 [kill_명령어_참고_블로그](https://sisiblog.tistory.com/209)  
+**VIM매크로 : 직접 기억나는대로, 배웠던대로, 사용해본 경험대로 작성하였습니다.**
