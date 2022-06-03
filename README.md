@@ -38,8 +38,8 @@
          ps -p   : 특정 PID를 지정할 때 사용되는 옵션  
         
 #### 3) **jobs 명령어**
-  **jobs** 명령어는 작업의 상태를 표시하는 명령어로, 쉘 세션에서 실행하고 있는 백그라운드의 작업 목록을 확인할 수 있다!
-  각 작업에는 번호가 붙어있어 kill명령어를 사용하기에 더 간편하다!
+  **jobs** 명령어는 작업의 상태를 표시하는 명령어로, 쉘 세션에서 실행하고 있는 백그라운드의 작업 목록을 확인할 수 있다!  
+  각 작업에는 번호가 붙어있어 kill명령어를 사용하기에 더 간편하다!  
     + **jobs**명령어     
          
          -l      : 프로세서 그룹 ID를 state 필드 앞에 출력
@@ -57,5 +57,5 @@
 [Top명령어_참고_블로그1](https://sabarada.tistory.com/146)  
 [Top명령어_참고_블로그2](https://zzsza.github.io/development/2018/07/18/linux-top/)  
 [Ps명령어_참고_블로그1](https://jhnyang.tistory.com/268)  
-[Ps 명령어_참고_블로그2](https://kldp.org/node/153790)  
-[Jobs_명령어_참고_블로그1](https://hbase.tistory.com/265)
+[Ps명령어_참고_블로그2](https://kldp.org/node/153790)  
+[Jobs명령어_참고_블로그1](https://hbase.tistory.com/265)  
